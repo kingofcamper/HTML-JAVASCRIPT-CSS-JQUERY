@@ -1,2 +1,2 @@
 # HTML-JAVASCRIPT-CSS-JQUERY
-Best movies all time 
+An informative website about best movies ranked by experts 
